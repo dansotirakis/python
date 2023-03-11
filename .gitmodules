@@ -1,0 +1,3 @@
+[submodule "lab-python-django"]
+	path = lab-python-django
+	url = https://github.com/dansotirakis/lab-python-django.git
